@@ -1,1 +1,0 @@
-Umbraco8_KeywordExtractor_ContentApp

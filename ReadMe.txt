@@ -1,3 +1,13 @@
+-----------------------------------------------
+Umbraco8 Keyword Extractor ContentApp
+-----------------------------------------------
+
+This is a content app to assist with extracting keywords from content. This is a great tool for bloggers wanting to quickly analyze their content to assist with what tags and keywords to add to the blog.
+The API used a fairly smart AI call ed meaning cloud text extraction API. It helps extract entities, keywords, phrases and more. The API is free with some minimal restrictions.
+
+For trial purposes I have added an API. Once you have reviewed the app please create your own API key.
+
+
 -------------------------------------
 CONFIGURATION INSTRUCTIONS
 -------------------------------------
